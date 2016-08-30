@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextWatcherDemo</string>
+    <string name="text">经过上面的修改，我们在Android Studio UI界面上编译时，将使用我们修改后的JDK6版本，但是当我们在Terminal中输入java -version查看当前JDK版本信息时，会发现还是之前的JDK7版本，可能的原因是之前系统中设置了JAVA_HOME环境变量，因此这里也要修改一下。</string>
+</resources>
